@@ -1,0 +1,23 @@
+accelerate launch ./scripts/train_mem_keyframes_new.py \
+  --dataset_metadata_path YOUR_PROCESSED_DATAPATH/train/full_list_F77_clips.txt \
+  --dataset_caption_path YOUR_PROCESSED_DATAPATH/train/caption_F77/video_captions_refined.json \
+  --model_paths ./configs/model_conf_wan_fun_i2v_1.3b.json \
+  --height 352 \
+  --width 640 \
+  --dataset_repeat 10 \
+  --learning_rate 1e-4 \
+  --num_epochs 5 \
+  --remove_prefix_in_ckpt "pipe.dit." \
+  --lora_base_model "dit" \
+  --lora_target_modules "q,k,v,o,ffn.0,ffn.2" \
+  --trainable_models "ref_conv,nvs_model" \
+  --lora_rank 1024 \
+  --num_frames 77 \
+  --save_steps 500 \
+  --dataset_num_workers 16 \
+  --gradient_accumulation_steps 1 \
+  --wandb_mode offline \
+  --use_wandb \
+  --output_path "./trained_models/debug" \
+  --wandb_run_name "debug" \
+  --wandb_notes "debug"

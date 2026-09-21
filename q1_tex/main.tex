@@ -1,0 +1,69 @@
+% !TEX program = xelatex
+\documentclass[UTF8,a4paper,11pt,fontset=none]{ctexart}
+\usepackage[left=22mm,right=22mm,top=20mm,bottom=20mm]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{hyperref}
+
+\setmainfont{Times New Roman}
+\setsansfont{Times New Roman}
+\setCJKmainfont{Microsoft YaHei}[
+  BoldFont=Microsoft YaHei Bold,
+  ItalicFont=Microsoft YaHei
+]
+\setCJKsansfont{Microsoft YaHei}[BoldFont=Microsoft YaHei Bold]
+\xeCJKsetup{PunctStyle=kaiming, CJKecglue={}}
+\setstretch{1.36}
+
+\definecolor{ink}{HTML}{1C1C1C}
+\definecolor{muted}{HTML}{666666}
+
+\hypersetup{colorlinks=false,hidelinks}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[L]{\fontsize{8.5}{10}\selectfont\color{muted}课内成绩与时间}
+\fancyfoot[R]{\fontsize{8.5}{10}\selectfont\color{muted}\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{14pt}
+\widowpenalty=10000
+\clubpenalty=10000
+
+\newcommand{\ask}[1]{%
+  \par\vspace{2mm}%
+  {\noindent\fontsize{13}{18}\selectfont\bfseries #1\par}
+  \nobreak\vspace{1.2mm}%
+  {\color{ink}\noindent\rule{\linewidth}{0.45pt}\par}
+  \nobreak\vspace{2.8mm}%
+}
+\newcommand{\point}[1]{\par\vspace{2.2mm}\noindent\textbf{#1}\hspace{0.4em}}
+
+\begin{document}
+\color{ink}
+
+\begin{center}
+{\fontsize{18}{24}\selectfont\bfseries 课内成绩与时间}\\[2.8mm]
+{\color{ink}\rule{0.28\textwidth}{0.4pt}}
+\end{center}
+
+\vspace{2.5mm}
+
+\ask{问 1\quad 绩点、排名，课内压力，每周能做课外的时间}
+
+\noindent
+我目前学分加权均分 79.06/100，对这个数字我自己也不满意。刚转入人工智能学院，学院官方排名要这学期末才公布，目前还没有正式名次。学院近年保研率平均约 74\%。我入学以来一直按申请在准备，雅思也没断过。
+
+\vspace{2.4mm}
+\noindent
+均分偏低，原因并不复杂，主要三块：大一上适应期，节奏没跟上，这是我自己的问题；转专业前，原专业那套课程安排和体系我实在喜欢不起来——离我想做的动手和科研太远，坐在教室里也很难真正听进去，这也是我后来想转专业的原因之一；中间又集中遇到几门物理课，把均分明显往下拉了一截，那段时间看成绩单确实闷。但这些都已经过去，说明原因不是为了找借口。
+
+\vspace{2.4mm}
+\noindent
+从大一下开始我一直在往回拉：大一下 75.5，大二上 82，累计 79.06。课内压力目前可控，时间排得开。这学期选课把高难度物理的占比压下来了，课表以专业课为主，不是每周都被作业顶满。课内我会稳住，但不把卷绩点当成这段时间的主业。
+
+\vspace{2.4mm}
+\noindent
+每周我能保证约 25 小时远程做实验室的事，寒暑假可以全职线下。这些时间我想花在真正感兴趣的科研上，这也是我转过来之后真正想做的事。课内兼顾，重心在这边。
+
+\end{document}

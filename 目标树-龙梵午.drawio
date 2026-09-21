@@ -1,0 +1,387 @@
+<mxfile host="Electron" agent="Cursor">
+  <diagram id="goaltree" name="目标树">
+    <mxGraphModel dx="802" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1580" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="goal" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E7F1FC;fontColor=#1B4F82;strokeColor=#A9C9EA;strokeWidth=2;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" value="做自己真正感兴趣的科研，并能自己把它追下去" vertex="1">
+          <mxGeometry height="48" width="960" x="300" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="CSF1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;" value="找到自己真正上心的细方向&lt;br&gt;&lt;font style=&quot;font-size:10px&quot; color=&quot;#C45650&quot;&gt;验收：亲手试过至少两块不同的活，能说出上心和不上心的差别&lt;/font&gt;" vertex="1">
+          <mxGeometry height="54" width="400" x="28" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="CSF2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;" value="开得动自己的 project&lt;br&gt;&lt;font style=&quot;font-size:10px&quot; color=&quot;#C45650&quot;&gt;验收：下一问从跟过的项目里长出来，不是另找一个热词&lt;/font&gt;" vertex="1">
+          <mxGeometry height="54" width="420" x="1120" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IO_follow" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=13;fontFamily=Microsoft YaHei;" value="跟完一个项目并上手其中一块&lt;br&gt;&lt;font style=&quot;font-size:10px&quot; color=&quot;#3A3126&quot;&gt;能讲清自己做了什么、卡在哪&lt;/font&gt;" vertex="1">
+          <mxGeometry height="54" width="500" x="500" y="456" as="geometry" />
+        </mxCell>
+        <mxCell id="IO_judge" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" value="有自己的判断，不被热方向牵着走" vertex="1">
+          <mxGeometry height="50" width="390" x="16" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="IO_skill" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" value="表示、生成、实验够用&lt;br&gt;&lt;font style=&quot;font-size:10px&quot;&gt;验收：能用这三块解释试过的活，并指出卡在哪&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="430" x="1108" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="N_lab" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="能够对研究领域建立自己的判断和了解" vertex="1">
+          <mxGeometry height="40" width="370" x="36" y="616" as="geometry" />
+        </mxCell>
+        <mxCell id="N_survey" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="世界模型 / 视频生成 / NVS 顺着读，记下上心和不上心" vertex="1">
+          <mxGeometry height="36" width="350" x="78" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="N_paper" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="一篇论文能讲清问题、方法，以及自己信不信它的实验" vertex="1">
+          <mxGeometry height="28" width="310" x="130" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="N_try" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="从不同线上亲手各试一块" vertex="1">
+          <mxGeometry height="36" width="360" x="20" y="764" as="geometry" />
+        </mxCell>
+        <mxCell id="N_ask" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="过一段再问：这还是不是我想做的" vertex="1">
+          <mxGeometry height="32" width="330" x="96" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="N_time" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="时间砸在了解和试活上，不靠边角料" vertex="1">
+          <mxGeometry height="32" width="340" x="48" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="N_t1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="学期中约 25h" vertex="1">
+          <mxGeometry height="28" width="120" x="28" y="914" as="geometry" />
+        </mxCell>
+        <mxCell id="N_t2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="暑期全职" vertex="1">
+          <mxGeometry height="28" width="110" x="168" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="N_p1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="先搞清问题定义与输入输出" vertex="1">
+          <mxGeometry height="46" width="148" x="500" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="N_p2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="上手数据、训练或评测中的一块" vertex="1">
+          <mxGeometry height="46" width="156" x="668" y="544" as="geometry" />
+        </mxCell>
+        <mxCell id="N_p3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="能讲清方法、设置和自己卡在哪" vertex="1">
+          <mxGeometry height="46" width="150" x="844" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="N_stuck" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="遇到问题 先自己定位，再决定问不问" vertex="1">
+          <mxGeometry height="34" width="420" x="530" y="616" as="geometry" />
+        </mxCell>
+        <mxCell id="N_grow" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="自己的问题从跟过的项目里长出来" vertex="1">
+          <mxGeometry height="34" width="380" x="590" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="N_alone" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="没人盯也能把这一段做完（自学用在项目上）" vertex="1">
+          <mxGeometry height="36" width="430" x="510" y="726" as="geometry" />
+        </mxCell>
+        <mxCell id="N_rep" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="三维表示" vertex="1">
+          <mxGeometry height="30" width="360" x="1120" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="N_rep1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="NeRF / 3DGS / 隐式场各管什么、不管什么" vertex="1">
+          <mxGeometry height="24" width="340" x="1160" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="N_rep2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="什么问题该用哪种表示，换一种会丢掉什么" vertex="1">
+          <mxGeometry height="24" width="330" x="1190" y="706" as="geometry" />
+        </mxCell>
+        <mxCell id="N_rep3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="表示如何对上观测：渲染出来的和看到的差在哪" vertex="1">
+          <mxGeometry height="24" width="350" x="1148" y="738" as="geometry" />
+        </mxCell>
+        <mxCell id="N_gen" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="生成" vertex="1">
+          <mxGeometry height="28" width="400" x="1088" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="N_gen1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="扩散如何被条件控制" vertex="1">
+          <mxGeometry height="36" width="130" x="1076" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="N_gen2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="视频时序在哪类变化下会坏" vertex="1">
+          <mxGeometry height="36" width="140" x="1220" y="832" as="geometry" />
+        </mxCell>
+        <mxCell id="N_gen3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="条件来自图像、相机或几何" vertex="1">
+          <mxGeometry height="36" width="140" x="1376" y="808" as="geometry" />
+        </mxCell>
+        <mxCell id="N_exp" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=12;fontStyle=1;fontFamily=Microsoft YaHei;" value="实验" vertex="1">
+          <mxGeometry height="28" width="360" x="1140" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="N_exp1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="训练能自己跑通" vertex="1">
+          <mxGeometry height="26" width="150" x="1100" y="924" as="geometry" />
+        </mxCell>
+        <mxCell id="N_exp2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="指标对得上看到的失败" vertex="1">
+          <mxGeometry height="26" width="170" x="1270" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="N_exp3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="失败写成可复现的最小例子" vertex="1">
+          <mxGeometry height="26" width="180" x="1088" y="976" as="geometry" />
+        </mxCell>
+        <mxCell id="N_exp4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FCF8;fontColor=#2E8A68;strokeColor=#B4E0CC;fontSize=10;fontFamily=Microsoft YaHei;" value="一次只改一处再对照" vertex="1">
+          <mxGeometry height="26" width="160" x="1290" y="988" as="geometry" />
+        </mxCell>
+        <mxCell id="N_debug" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="跑通实验要反复排错和学习，不是只看别人结论" vertex="1">
+          <mxGeometry height="32" width="360" x="1168" y="1028" as="geometry" />
+        </mxCell>
+        <mxCell id="legR" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="关键：没有它，目标不成立" vertex="1">
+          <mxGeometry height="28" width="250" x="28" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="legY" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="次一级：没有它，关键不成立" vertex="1">
+          <mxGeometry height="28" width="270" x="292" y="1092" as="geometry" />
+        </mxCell>
+        <mxCell id="legG" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" value="具体条件；浅色是再拆开的一层" vertex="1">
+          <mxGeometry height="28" width="310" x="576" y="1076" as="geometry" />
+        </mxCell>
+        <mxCell id="g1" edge="1" parent="1" source="CSF1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.6;strokeColor=#E89B94;exitX=0.72;exitY=0;entryX=0.72;entryY=1;" target="G_q">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2" edge="1" parent="1" source="CSF2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.6;strokeColor=#E89B94;exitX=0.28;exitY=0;entryX=0.22;entryY=1;" target="G_where">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" edge="1" parent="1" source="IO_follow" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.5;strokeColor=#D4AE4A;exitX=0.12;exitY=0;entryX=0.85;entryY=1;" target="CSF1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f2" edge="1" parent="1" source="IO_follow" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.5;strokeColor=#D4AE4A;exitX=0.9;exitY=0;entryX=0.18;entryY=1;" target="CSF2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1" edge="1" parent="1" source="IO_judge" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.4;strokeColor=#D4AE4A;exitX=0.45;exitY=0;entryX=0.35;entryY=1;" target="CSF1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="468" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1" edge="1" parent="1" source="IO_skill" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.4;strokeColor=#D4AE4A;exitX=0;exitY=0.3;entryX=1;entryY=0.55;" target="IO_follow">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2" edge="1" parent="1" source="IO_skill" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.4;strokeColor=#D4AE4A;exitX=0.55;exitY=0;entryX=0.55;entryY=1;" target="CSF2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_lab" edge="1" parent="1" source="N_lab" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.2;exitY=0;entryX=0.25;entryY=1;" target="IO_judge">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_survey" edge="1" parent="1" source="N_survey" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.15;exitY=0;entryX=0.7;entryY=1;" target="IO_judge">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="628" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_paper" edge="1" parent="1" source="N_paper" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.3;exitY=0;entryX=0.7;entryY=1;" target="N_survey">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_try" edge="1" parent="1" source="N_try" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.15;entryY=1;" target="IO_judge">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8" y="688" />
+              <mxPoint x="8" y="568" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_ask" edge="1" parent="1" source="N_ask" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=1;exitY=0.3;entryX=1;entryY=0.6;" target="IO_judge">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="798" />
+              <mxPoint x="460" y="566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_time" edge="1" parent="1" source="N_time" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.1;strokeColor=#5CB892;exitX=0.4;exitY=0;entryX=0.4;entryY=1;" target="N_try">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_t1" edge="1" parent="1" source="N_t1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.2;entryY=1;" target="N_time">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_t2" edge="1" parent="1" source="N_t2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" target="N_time">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p1" edge="1" parent="1" source="N_p1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.16;entryY=1;" target="IO_follow">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p2" edge="1" parent="1" source="N_p2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" target="IO_follow">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_p3" edge="1" parent="1" source="N_p3" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.84;entryY=1;" target="IO_follow">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_stuck" edge="1" parent="1" source="N_stuck" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.1;strokeColor=#5CB892;exitX=0.3;exitY=0;entryX=0.28;entryY=1;" target="IO_follow">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_grow" edge="1" parent="1" source="N_grow" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=1;exitY=0.4;entryX=0.35;entryY=1;" target="CSF2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="658" />
+              <mxPoint x="1200" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_alone" edge="1" parent="1" source="N_alone" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.1;strokeColor=#5CB892;exitX=0.2;exitY=0;entryX=0.2;entryY=1;" target="IO_follow">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="668" />
+              <mxPoint x="480" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_rep" edge="1" parent="1" source="N_rep" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.4;exitY=0;entryX=0.35;entryY=1;" target="IO_skill">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_rep1" edge="1" parent="1" source="N_rep1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.2;exitY=0;entryX=0.55;entryY=1;" target="N_rep">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_rep2" edge="1" parent="1" source="N_rep2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.15;exitY=0;entryX=0.8;entryY=1;" target="N_rep">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_rep3" edge="1" parent="1" source="N_rep3" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.3;exitY=0;entryX=0.3;entryY=1;" target="N_rep">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="718" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_gen" edge="1" parent="1" source="N_gen" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.7;exitY=0;entryX=0.7;entryY=1;" target="IO_skill">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1468" y="738" />
+              <mxPoint x="1490" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_gen1" edge="1" parent="1" source="N_gen1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.15;entryY=1;" target="N_gen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_gen2" edge="1" parent="1" source="N_gen2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" target="N_gen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_gen3" edge="1" parent="1" source="N_gen3" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.85;entryY=1;" target="N_gen">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_exp" edge="1" parent="1" source="N_exp" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" target="IO_skill">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="828" />
+              <mxPoint x="1508" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_exp1" edge="1" parent="1" source="N_exp1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.6;exitY=0;entryX=0.2;entryY=1;" target="N_exp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_exp2" edge="1" parent="1" source="N_exp2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.4;exitY=0;entryX=0.75;entryY=1;" target="N_exp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_exp3" edge="1" parent="1" source="N_exp3" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.5;exitY=0;entryX=0.15;entryY=1;" target="N_exp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_exp4" edge="1" parent="1" source="N_exp4" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1;strokeColor=#8ED4B8;exitX=0.4;exitY=0;entryX=0.8;entryY=1;" target="N_exp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_debug" edge="1" parent="1" source="N_debug" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.1;strokeColor=#5CB892;exitX=0.4;exitY=0;entryX=0.55;entryY=1;" target="N_exp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_hold" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;" value="细方向能沿住，直到本科结束" vertex="1">
+          <mxGeometry height="58" width="500" x="48" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="L_line" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;" value="自己的一条线能接到本科结束" vertex="1">
+          <mxGeometry height="58" width="520" x="980" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="N_span" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="本科剩下的学期都留得住一块时间，不是只挤出一个学期" vertex="1">
+          <mxGeometry height="36" width="400" x="48" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="gL1" edge="1" parent="1" source="L_hold" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.6;strokeColor=#E89B94;exitX=0.55;exitY=0;entryX=0.22;entryY=1;" target="goal">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="78" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gL2" edge="1" parent="1" source="L_line" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.6;strokeColor=#E89B94;exitX=0.4;exitY=0;entryX=0.78;entryY=1;" target="goal">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="86" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e_span" edge="1" parent="1" source="N_span" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.1;strokeColor=#7DCFB0;exitX=0.5;exitY=0;entryX=0.15;entryY=1;" target="N_time">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_map" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" value="能画出这条细方向的地图：它在问什么，旁边哪些不是" vertex="1">
+          <mxGeometry height="54" width="490" x="36" y="162" as="geometry" />
+        </mxCell>
+        <mxCell id="M_next" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" value="第一个做完，能指出下一问从哪个卡点长出来" vertex="1">
+          <mxGeometry height="56" width="460" x="560" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="M_skill" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" value="能力从「够跟项目」长到「够自己提下一问」" vertex="1">
+          <mxGeometry height="48" width="440" x="1060" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="m1" edge="1" parent="1" source="M_map" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.5;strokeColor=#D4AE4A;exitX=0.35;exitY=0;entryX=0.55;entryY=1;" target="L_hold">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="152" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m2" edge="1" parent="1" source="M_next" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.5;strokeColor=#D4AE4A;exitX=0.45;exitY=0;entryX=0.28;entryY=1;" target="L_line">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3" edge="1" parent="1" source="M_skill" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.5;strokeColor=#D4AE4A;exitX=0.2;exitY=0;entryX=0.72;entryY=1;" target="M_next">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m4" edge="1" parent="1" source="IO_skill" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.5;strokeColor=#D4AE4A;exitX=0.35;exitY=0;entryX=0.5;entryY=1;" target="G_match">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_q" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="写下这条方向在问的那一个问题" vertex="1">
+          <mxGeometry height="40" width="240" x="24" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="G_side" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="标出旁边容易混进去的，写明为什么不是" vertex="1">
+          <mxGeometry height="44" width="250" x="280" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="G_where" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="做完后写下卡点在哪一层" vertex="1">
+          <mxGeometry height="40" width="220" x="560" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="G_only" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="下一问从哪个卡点来" vertex="1">
+          <mxGeometry height="40" width="210" x="800" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="G_match" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" value="下一问能对上表示、生成或实验里的一块" vertex="1">
+          <mxGeometry height="40" width="420" x="1060" y="258" as="geometry" />
+        </mxCell>
+        <mxCell id="gq1" edge="1" parent="1" source="G_q" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.22;entryY=1;" target="M_map">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gs1" edge="1" parent="1" source="G_side" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.4;exitY=0;entryX=0.72;entryY=1;" target="M_map">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw1" edge="1" parent="1" source="G_where" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.25;entryY=1;" target="M_next">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="go1" edge="1" parent="1" source="G_only" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.75;entryY=1;" target="M_next">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm1" edge="1" parent="1" source="G_match" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.55;entryY=1;" target="M_skill">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c1b" edge="1" parent="1" source="CSF1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.7;exitY=0;entryX=0.3;entryY=1;" target="G_side">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2b" edge="1" parent="1" source="CSF2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.15;exitY=0;entryX=0.8;entryY=1;" target="G_only">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

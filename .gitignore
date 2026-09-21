@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+node_modules/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+*.log
+.\$*.bkp
+~$*

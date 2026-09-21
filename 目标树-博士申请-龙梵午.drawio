@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2026-09-19T09:30:00.000Z" agent="Cursor" version="24.0.0" type="device">
+  <diagram id="phd" name="博士申请">
+    <mxGraphModel dx="1400" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="720" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="sys" value="系统：本科结束前的博士申请" style="text;html=1;fontSize=11;fontColor=#3D6284;align=left;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="16" y="6" width="240" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="goal" value="交出一份站得住的博士申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E7F1FC;fontColor=#1B4F82;strokeColor=#A9C9EA;strokeWidth=2;fontSize=16;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="340" y="18" width="780" height="48" as="geometry" />
+        </mxCell>
+
+        <mxCell id="R1" value="申请里写的是自己的研究线&lt;br&gt;&lt;font style=&quot;font-size:10px&quot; color=&quot;#C45650&quot;&gt;问题、做过的一块、下一问，都从自己的项目来&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="36" y="88" width="460" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="R2" value="投的项目和这条线对得上&lt;br&gt;&lt;font style=&quot;font-size:10px&quot; color=&quot;#C45650&quot;&gt;能说出为什么投这几个；对不上的不因为排名留下&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;strokeWidth=2;fontSize=13;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="960" y="108" width="480" height="56" as="geometry" />
+        </mxCell>
+
+        <mxCell id="Y1" value="研究陈述从做过的项目里长出来" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="24" y="180" width="400" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2" value="推荐人能说到具体做了什么、卡在哪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="500" y="198" width="420" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3" value="先看清对方在做什么，再决定投不投" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;strokeWidth=1.8;fontSize=12;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="980" y="196" width="440" height="44" as="geometry" />
+        </mxCell>
+
+        <mxCell id="G1a" value="问题、已做的一块、卡点写清楚" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="16" y="258" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G1b" value="下一问从卡点来，写进陈述" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="260" y="276" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G2a" value="跟过的项目，有人看见过" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="500" y="272" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G2b" value="自己的 project，也有人能说具体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="720" y="292" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3a" value="对得上的才留在名单里" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="980" y="268" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G3b" value="对不上的写明原因" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="286" width="200" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="G4" value="本科后半段开始写、改，不挤到最后一学期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="420" height="40" as="geometry" />
+        </mxCell>
+
+        <mxCell id="legR" value="关键：没有它，申请站不住" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDECEA;fontColor=#B23A34;strokeColor=#F0B4AC;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="24" y="440" width="230" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="legY" value="次一级：没有它，关键不成立" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF6D6;fontColor=#8A6418;strokeColor=#E6C56A;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="452" width="240" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="legG" value="具体要做的事" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFF6EC;fontColor=#1B7A56;strokeColor=#7DCFB0;fontSize=11;fontFamily=Microsoft YaHei;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="526" y="440" width="160" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="note" value="箭头向上：要有上面，必须先有下面。" style="text;html=1;fontSize=11;fontColor=#3D6284;align=left;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="24" y="492" width="520" height="18" as="geometry" />
+        </mxCell>
+
+        <mxCell id="eR1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.6;strokeColor=#E89B94;exitX=0.7;exitY=0;entryX=0.22;entryY=1;" edge="1" parent="1" source="R1" target="goal">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="420" y="72" /></Array></mxGeometry>
+        </mxCell>
+        <mxCell id="eR2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.6;strokeColor=#E89B94;exitX=0.3;exitY=0;entryX=0.78;entryY=1;" edge="1" parent="1" source="R2" target="goal">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="1080" y="78" /></Array></mxGeometry>
+        </mxCell>
+        <mxCell id="eY1" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.45;strokeColor=#D4AE4A;exitX=0.45;exitY=0;entryX=0.4;entryY=1;" edge="1" parent="1" source="Y1" target="R1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY2" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.45;strokeColor=#D4AE4A;exitX=0.2;exitY=0;entryX=0.85;entryY=1;" edge="1" parent="1" source="Y2" target="R1">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="520" y="170" /></Array></mxGeometry>
+        </mxCell>
+        <mxCell id="eY2b" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.45;strokeColor=#D4AE4A;exitX=0.85;exitY=0;entryX=0.2;entryY=1;" edge="1" parent="1" source="Y2" target="R2">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="900" y="176" /></Array></mxGeometry>
+        </mxCell>
+        <mxCell id="eY3" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.45;strokeColor=#D4AE4A;exitX=0.5;exitY=0;entryX=0.55;entryY=1;" edge="1" parent="1" source="Y3" target="R2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eG1a" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.22;entryY=1;" edge="1" parent="1" source="G1a" target="Y1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eG1b" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.4;exitY=0;entryX=0.75;entryY=1;" edge="1" parent="1" source="G1b" target="Y1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eG2a" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.28;entryY=1;" edge="1" parent="1" source="G2a" target="Y2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eG2b" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.4;exitY=0;entryX=0.75;entryY=1;" edge="1" parent="1" source="G2b" target="Y2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eG3a" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.25;entryY=1;" edge="1" parent="1" source="G3a" target="Y3"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eG3b" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.3;exitY=0;entryX=0.8;entryY=1;" edge="1" parent="1" source="G3b" target="Y3"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eG4" style="endArrow=block;endFill=1;html=1;curved=1;strokeWidth=1.15;strokeColor=#5CB892;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" edge="1" parent="1" source="G4" target="Y1">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="480" y="340" /><mxPoint x="200" y="250" /></Array></mxGeometry>
+        </mxCell>
+        <mxCell id="x1" style="endArrow=block;endFill=1;dashed=1;dashPattern=8 6;html=1;curved=1;strokeWidth=1.15;strokeColor=#D4AE4A;exitX=1;exitY=0.5;entryX=0;entryY=0.45;" edge="1" parent="1" source="Y1" target="R2">
+          <mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="700" y="160" /><mxPoint x="900" y="140" /></Array></mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

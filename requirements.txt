@@ -1,0 +1,36 @@
+﻿# I3DM 复现环境依赖（已锁定实测可用版本）
+# Python 3.10 | conda env: i3dm | CUDA 12.4 | A100 (sm_80)
+# 注意：torch / xformers / transformers 三者版本强耦合，请勿单独升级
+
+# ---- 核心框架（需先单独安装，不要让 pip 自动解析）----
+torch==2.5.0
+torchvision==0.20.0
+torchaudio==2.5.0
+# 安装命令：pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu124
+
+xformers==0.0.28.post2       # 必须与 torch 2.5.0 严格配对
+
+# ---- 模型库 ----
+transformers==4.57.3         # 5.x 要求 torch>=2.6，降级规避
+diffusers==0.40.0
+modelscope                   # Wan2.1-FUN 基座模型下载
+
+# ---- 训练 ----
+accelerate
+peft
+wandb==0.29.0
+
+# ---- 数据/工具 ----
+numpy
+Pillow
+tqdm
+einops
+easydict
+pandas==2.3.3
+typing_extensions
+
+# ---- 安装顺序建议 ----
+# 1. conda create -n i3dm python=3.10 -y && conda activate i3dm
+# 2. pip install torch==2.5.0 ... --index-url https://download.pytorch.org/whl/cu124
+# 3. pip install xformers==0.0.28.post2
+# 4. pip install -r requirements.txt
